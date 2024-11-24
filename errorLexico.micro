@@ -1,0 +1,5 @@
+inicio
+    x := 5;
+    y := x @ 10; // Error léxico: `@` no es un operador válido
+    escribir(y);
+fin
