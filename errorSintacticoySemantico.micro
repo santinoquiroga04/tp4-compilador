@@ -1,6 +1,0 @@
-inicio
-    x := 5
-    y := x + 10; // Error sintáctico: falta el punto y coma después de `5`
-    z := a + b;  // Error semántico: las variables `a` y `b` no están declaradas
-    escribir(z);
-fin
