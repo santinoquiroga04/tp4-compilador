@@ -95,7 +95,7 @@ if ((in = fopen(nomArchi, "r")) == NULL) {
 
 /*************************Inicio Compilacion***************************/
 Objetivo();
-/**************************Se cierra el Archivo Fuente******************/
+/**************************Se cierra el Archivo Fuente*****************/
 fclose(in);
 return 0;
 }
